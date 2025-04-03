@@ -21,7 +21,6 @@ public class Lab00
          System.out.print(i + " ");
       }
 
-
    }
 
 
